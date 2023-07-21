@@ -1,0 +1,28 @@
+0 man
+1 woman
+2 bag
+3 book
+4 bottle
+5 cat
+6 chair
+7 computer
+8 container
+9 dog
+10 door
+11 food
+12 glasses
+13 hat
+14 outlet
+15 pen
+16 phone
+17 pole
+18 sofa
+19 table
+20 trash
+21 trash can
+22 tree
+23 tv
+24 vehicle
+25 wall switch
+26 watch
+27 window
